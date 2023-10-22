@@ -1,0 +1,19 @@
+{
+  "name": "chat-application-api",
+  "version": "1.0.0",
+  "description": "It is a chat application using socket io and react and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samantaavijit/chat-application-api.git"
+  },
+  "author": "Avijit Samanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samantaavijit/chat-application-api/issues"
+  },
+  "homepage": "https://github.com/samantaavijit/chat-application-api#readme"
+}
